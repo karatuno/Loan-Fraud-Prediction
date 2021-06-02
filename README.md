@@ -1,5 +1,8 @@
 # Loan-Fraud-Prediction
 
+colab link : https://colab.research.google.com/drive/1W8pzAhDMl0sjeASIC15GqWkke0H-hpAk?usp=sharing
+
+
 ## Problem Statement
 The Bank Indessa has not done well in the last 3 quarters. Their NPAs (Non Performing Assets)
 have reached all time high. It is starting to lose the confidence of its investors. As a result, it’s stock
